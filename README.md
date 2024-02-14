@@ -49,4 +49,9 @@ Après avoir lancé le Minecraft Version Downloader, suivez ces étapes pour té
 Les contributions au projet sont les bienvenues. Veuillez consulter le fichier `CONTRIBUTING.md` pour plus d'informations sur comment contribuer au projet.
 
 ![image](https://github.com/MinusLauncher/MinecraftDownloader/assets/159789592/d2724aba-7227-44ab-9dea-054e4d5cd62d)
+![image](https://github.com/MinusLauncher/MinecraftDownloader/assets/159789592/0db26b8f-3b45-48a5-b2b6-42e1bcd34773)
+![image](https://github.com/MinusLauncher/MinecraftDownloader/assets/159789592/cc70f75d-6381-4491-9918-d6749f309a91)
+
+
+
 
