@@ -7,7 +7,6 @@ from tkinter import ttk
 import threading
 import time
 import shutil
-import os
 from ttkthemes import ThemedTk
 import threading
 import webbrowser
